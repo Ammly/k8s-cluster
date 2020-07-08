@@ -51,7 +51,7 @@ Create `.kube/` directory if it doesn't exist
 
 ### Tested on
 
-    Ubuntu 20.04
+    Ubuntu 20.04 LTS
 
 ## More information
 
